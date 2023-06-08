@@ -36,7 +36,7 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    background-image: url('https://media.licdn.com/dms/image/C4D03AQFYZYZ97iKvWg/profile-displayphoto-shrink_800_800/0/1603383929620?e=1691625600&v=beta&t=sn1qLrsaJSrTqRvgeCPNmRM6-9xqAE_f_igBM7M4Lo4'); /* Replace with the actual image path */
+    background-image: url('profile_pic.png'); /* Replace with the actual image path */
     background-size: cover;
     background-position: center;
   }
