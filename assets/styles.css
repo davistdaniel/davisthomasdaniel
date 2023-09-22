@@ -101,7 +101,7 @@
 
     .social-icon {
       display: block; /* Changed to block to create a vertical list */
-      width: 68px; /* Fixed width for all buttons */
+      width: 90px; /* Fixed width for all buttons */
       margin-bottom: 10px;
       color: white;
       font-size: 18px;
